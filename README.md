@@ -1,4 +1,4 @@
-## Dream Squad - Build Your Dream Team with React
+## Dream Squad - Build Your Dream Team 
 
 ### Description
 Dream Squad is a React web application that allows users to create their fantasy football team by selecting current players. The app provides a user-friendly interface to search for desired players, view their main information, and abilities. Once the user picks a player, they can assign the player to a specific position on the field based on their primary podition (Forward, Midfielder, Defender, Goalkeeper).
