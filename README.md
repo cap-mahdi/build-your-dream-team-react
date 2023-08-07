@@ -13,7 +13,7 @@ For fetching player data, Dream Squad uses the SportsScore API from RapidAPI. Th
 Link: https://rapidapi.com/tipsters/api/sportscore1
 
 ### Demo Video
-If you just want to see the results and how the app works, you can watch the video named `build-your-dream-team.mp4`.
+If you just want to see the results and how the app works, you can watch the video named `build-your-dream-team.mp4`. (you will have to download it)
 
 ### Resources
 Dream Squad uses various CSS resources to enhance its design:
